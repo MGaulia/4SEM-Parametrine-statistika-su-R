@@ -1,0 +1,1 @@
+# Parametrine-statistika-su-R
